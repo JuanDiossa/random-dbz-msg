@@ -1,0 +1,24 @@
+{
+  "name": "random-dbz-msg",
+  "version": "1.0.0",
+  "description": "Just for fun and a platzi class proyect - Random Dragon Ball messages",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JuanDiossa/random-dbz-msg.git"
+  },
+  "keywords": [],
+  "author": "Juan Diossa <djuan.d.o@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JuanDiossa/random-dbz-msg/issues"
+  },
+  "homepage": "https://github.com/JuanDiossa/random-dbz-msg#readme",
+  "bin": {
+    "random-dbz-msg": "./bin/global.js"
+  },
+  "preferGlobal": true
+}
